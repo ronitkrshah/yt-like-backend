@@ -1,0 +1,5 @@
+{
+  "authentication": {
+    "secretKey": "my-super-secret-token"
+  }
+}
